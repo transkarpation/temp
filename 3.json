@@ -1,7 +1,7 @@
 {
   "name": "Token Metadata Name",
   "description": "Token Metadata Description",
-  "tokenId": "1",
+  "tokenId": "3",
   "image": "https://github.com/transkarpation/temp/blob/main/image/imga.jpg",
   "attributes": [
     {
@@ -10,7 +10,7 @@
     },
     {
       "trait_type": "Background", 
-      "value": "Gold"
+      "value": "Image 2"
     }
   ]
 }
