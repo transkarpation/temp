@@ -2,7 +2,7 @@
   "name": "Token Metadata Name",
   "description": "Token Metadata Description",
   "tokenId": "3",
-  "image": "https://github.com/transkarpation/temp/blob/main/image/imga.jpg",
+  "image": "https://raw.githubusercontent.com/transkarpation/temp/main/image/imga.jpg",
   "attributes": [
     {
       "trait_type": "Edition", 
