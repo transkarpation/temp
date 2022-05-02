@@ -1,0 +1,16 @@
+{
+  "name": "Token Metadata Name",
+  "description": "Token Metadata Description",
+  "tokenId": "1",
+  "image": "",
+  "attributes": [
+    {
+      "trait_type": "Edition", 
+      "value": "Edition 1"
+    },
+    {
+      "trait_type": "Background", 
+      "value": "Gold"
+    }
+  ]
+}
